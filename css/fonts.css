@@ -1,0 +1,92 @@
+/* Poppins */
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/poppins-v21-latin-300.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/poppins-v21-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/poppins-v21-latin-500.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/poppins-v21-latin-600.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/poppins-v21-latin-700.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/poppins-v21-latin-800.woff2') format('woff2');
+}
+
+/* FuturaLightC */
+@font-face {
+    font-display: swap;
+    font-family: 'FuturaLightC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/futuralightc.woff2') format('woff2');
+}
+
+/* FuturaDemic */
+@font-face {
+    font-display: swap;
+    font-family: 'FuturaDemiC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/futurademic.woff2') format('woff2');
+}
+
+/* FuturaFuturisC */
+@font-face {
+    font-display: swap;
+    font-family: 'FuturaFuturisC';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/futurafuturisc.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'FuturaFuturisC-Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/futurafuturisc-bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'ProximaNova';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/proxima_nova_regular.woff2') format('woff2');
+
+}
